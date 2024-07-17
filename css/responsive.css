@@ -1,0 +1,13 @@
+/* Tablet  (768px and below) */
+@media screen and (max-width: 768px) {
+
+
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .steps {
+        width: 1140px;
+    }
+}
